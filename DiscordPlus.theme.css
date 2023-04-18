@@ -20,7 +20,7 @@
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. 
    https://i.imgur.com/3AiL3yN.png
    */
-  --dplus-backdrop: url("https://storage.bhs.cloud.ovh.net/v1/AUTH_8d36ec6c0460400ca5d88d41cb6b9cd3/images/raycuaza10/497542/810166_twistedgrim_s_01GYAFF1RE4KVP14EHC1M10X7Z.gif");
+  --dplus-backdrop: url("https://storage.bhs.cloud.ovh.net/v1/AUTH_8d36ec6c0460400ca5d88d41cb6b9cd3/images/raycuaza10/497542/634940_endurance-tes_01GYAM3W1HE11892MZS9WWQTXT.gif");
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -88,6 +88,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://storage.bhs.cloud.ovh.net/v1/AUTH_8d36ec6c0460400ca5d88d41cb6b9cd3/images/raycuaza10/497542/634940_endurance-tes_01GYAM3W1HE11892MZS9WWQTXT.gif);
+--dplus-icon-home-dark: url(https://storage.bhs.cloud.ovh.net/v1/AUTH_8d36ec6c0460400ca5d88d41cb6b9cd3/images/raycuaza10/497542/810166_twistedgrim_s_01GYAFF1RE4KVP14EHC1M10X7Z.gif);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
