@@ -1,0 +1,5 @@
+git clone --bare https://github.com/PlusInsta/discord-plus.git
+cd themes.git
+git push --mirror https://github.com/raycuazaxd/themes.git
+cd ..
+rm -rf themes.git
