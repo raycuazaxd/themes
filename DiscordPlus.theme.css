@@ -20,7 +20,7 @@
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. 
    https://i.imgur.com/3AiL3yN.png
    */
-  --dplus-backdrop: url("https://realbooru.com/images/da/45/da458c8ef55a1e682a1968f2949662be.webm");
+  --dplus-backdrop: url("https://cdni.luscious.net/raycuaza10/497542/sfm-pov-that-ass-43_01GYAV39KFPGT8PER7MNAVXKZ6.gif");
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -89,5 +89,5 @@ Set avatar/server radius to 50% to make them circular.
 
 /* The Home icon on the top left */
 --dplus-icon-home-dark: url(https://storage.bhs.cloud.ovh.net/v1/AUTH_8d36ec6c0460400ca5d88d41cb6b9cd3/images/raycuaza10/497542/download-58_01GYAN81ZAET1Z0E8AET2N5Y1R.gif);
---dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-light: url(https://cdn.discordapp.com/attachments/1043966599817859122/1097957107522883744/72ff94cf08d8174f1308977861a19b6f.jpg);
 }
