@@ -56,7 +56,7 @@
   /* HOME BUTTON ICON */
   --home-icon: url(https://storage.bhs.cloud.ovh.net/v1/AUTH_8d36ec6c0460400ca5d88d41cb6b9cd3/images/raycuaza10/497542/download-58_01GYAN81ZAET1Z0E8AET2N5Y1R.gif); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 30px; /* home button icon size [default: 40px] */
+  --home-size: 29px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
